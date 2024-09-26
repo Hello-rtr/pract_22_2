@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="api">0bd72f77e5a156832cb9fb58fb58e2d3</string>
+    <string name="rez">Результат</string>
+    <string name="but1_txt">Конвертировать</string>
+    <string name="vhod">Войти</string>
+    <string name="edittxt_txt">Введмите сумму</string>
+</resources>
